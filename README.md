@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Mishra</h1>
 <h3 align="center">A passionate Data Analyst & frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/itsaman1](https://github.com/itsaman1)
 
